@@ -1,0 +1,13 @@
+streamlit
+pandas
+plotly
+fastapi
+uvicorn
+joblib
+pydantic
+openpyxl
+scikit-learn==1.6.1
+xgboost
+
+
+
